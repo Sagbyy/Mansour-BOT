@@ -1,0 +1,26 @@
+{
+  "name": "sagbot",
+  "version": "1.0.0",
+  "description": "Mon bot ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sagbyy/Sagbot.git"
+  },
+  "author": "Sagby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sagbyy/Sagbot/issues"
+  },
+  "homepage": "https://github.com/Sagbyy/Sagbot#readme",
+  "dependencies": {
+    "discord.js": "^14.10.2",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.39.0"
+  }
+}
